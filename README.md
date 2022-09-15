@@ -1,2 +1,2 @@
 # rock-paper-scissors
-A simple rock paper scissors game
+A rock paper scissors game I built following Angela Yu's 100 Days of Python tutorial.
